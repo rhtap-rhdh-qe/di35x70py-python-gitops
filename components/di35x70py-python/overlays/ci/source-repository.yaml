@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: di35x70py-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/di35x70py-python
